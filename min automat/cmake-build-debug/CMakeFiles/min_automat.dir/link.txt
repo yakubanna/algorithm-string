@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g   CMakeFiles/min_automat.dir/main.cpp.o  -o min_automat 

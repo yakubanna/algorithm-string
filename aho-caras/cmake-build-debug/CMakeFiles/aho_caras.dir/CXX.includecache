@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanna/Documents/algorithm string/aho-caras/fuzzy_matching.h
+algorithm
+-
+cstring
+-
+deque
+-
+iostream
+-
+iterator
+-
+map
+-
+memory
+-
+unordered_map
+-
+queue
+-
+sstream
+-
+string
+-
+unordered_set
+-
+vector
+-
+
+/home/hanna/Documents/algorithm string/aho-caras/main.cpp
+fuzzy_matching.h
+/home/hanna/Documents/algorithm string/aho-caras/fuzzy_matching.h
+string
+-
+vector
+-
+stdexcept
+-
+iostream
+-
+algorithm
+-
+utility
+-
+set
+-
+

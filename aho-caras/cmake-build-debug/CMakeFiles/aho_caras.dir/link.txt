@@ -1,0 +1,1 @@
+/usr/bin/c++   -fsanitize=address -g   CMakeFiles/aho_caras.dir/main.cpp.o  -o aho_caras 

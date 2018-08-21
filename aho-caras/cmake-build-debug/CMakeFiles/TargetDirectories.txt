@@ -1,0 +1,3 @@
+/home/hanna/Documents/algorithm string/aho-caras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hanna/Documents/algorithm string/aho-caras/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hanna/Documents/algorithm string/aho-caras/cmake-build-debug/CMakeFiles/aho_caras.dir

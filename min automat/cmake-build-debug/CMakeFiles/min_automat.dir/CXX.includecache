@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanna/Documents/algorithm string/min automat/main.cpp
+iostream
+-
+vector
+-
+deque
+-
+utility
+-
+list
+-
+

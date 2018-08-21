@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanna/Documents/algorithm string/review1/main.cpp
+iostream
+-
+sstream
+-
+stdio.h
+-
+vector
+-
+map
+-
+algorithm
+-
+string
+-
+queue
+-
+

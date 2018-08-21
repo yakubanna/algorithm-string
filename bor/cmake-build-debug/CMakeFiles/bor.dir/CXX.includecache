@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanna/Documents/algorithm string/bor/main.cpp
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+string
+-
+queue
+-
+
